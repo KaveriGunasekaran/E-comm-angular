@@ -1,0 +1,24 @@
+<h1>Trendy Products</h1>
+<div class="product-list-wrapper">
+    <div class="row">
+        <div class="product-cols" *ngFor="let item of trendyProducts">
+            <div class="product-item">
+                <img src="{{item.image}}" alt="image" class="product-header-image">
+                   
+                <div class="product-details">
+                    <h6 class="name-head">{{item.name}}</h6>
+                    <div class="product-price">
+                        <h6>{{item.price}}</h6>
+                    </div>
+                    <div class="product-color">
+                        <h6>{{item.color}}</h6>
+                    </div>
+                </div>
+                <div class="product-footer">
+                    <a [routerLink]="['/product-details',item.id]">View Details</a>
+                    <a >Add to Cart</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

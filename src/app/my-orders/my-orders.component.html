@@ -1,0 +1,27 @@
+<div class="Product-List">
+    <!-- // <p class="pdt-Msg">{{productMessage}}</p> -->
+    <h1 class="message-p">MY ORDERS</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Orders</th>
+                <th>Order Id</th>
+                <th>Price</th>
+                <th>Status</th>
+                <th>Cancel Order</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let order of orderData">
+                <td><img src="https://www.clipartmax.com/png/middle/210-2106541_track-my-order-beach-volleyball.png"
+                        alt=""></td>
+                <td>#{{order.userId}}</td>
+                <td>{{order.totalPrice}}</td>
+                <td>In Progress</td>
+                <td><button class="form-button" (click)="cancelOrder(order.id)">Cancel Order </button> </td>
+
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,1 +1,51 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+    font-family: sans-serif;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.common-form{
+display: flex;
+flex-direction: column;
+width: 300px;
+margin: auto;
+}
+.form-input{
+height: 35px;
+margin-bottom: 20px;
+border: 1px solid #6155B4;
+padding-left: 15px;
+color: #6155B4;
+}
+.form-button{
+height: 35px;
+border: 1px solid #6155B4;
+color: #6155B4;
+cursor: pointer;
+}
+
+.error-p{
+    color: red;
+    text-align: center;
+}
+
+.message-p{
+    color: green;
+    text-align: center;
+}
+
+.invalid-input{
+    color: red;
+    font-size: 12px;
+    margin-top: -20px;
+}
+button:disabled{
+    cursor: not-allowed;
+}
+.max-width{
+    width:100%;
+    
+}

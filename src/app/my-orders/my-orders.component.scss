@@ -1,0 +1,39 @@
+table{
+    text-align: left;
+    color:blueviolet;
+    border-collapse: collapse;
+    
+ 
+}
+
+table td,table th{
+    border:1px solid rgb(0, 0, 0);
+    padding:10px;
+    min-width:160px;
+    text-align: center;
+}
+
+.pdt-heading{
+    color:blueviolet;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+img{
+    height: 100px;
+    width:100px;
+}
+
+.pdt-Msg{
+    color:green;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+a{
+    margin-left:10px;
+}

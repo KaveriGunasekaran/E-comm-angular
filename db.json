@@ -1,0 +1,178 @@
+{
+  "seller": [
+    {
+      "id": "896",
+      "name": "kaveri",
+      "password": 1234,
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "d218",
+      "name": "abcd",
+      "password": "1234",
+      "E-mail": "abcd@1234"
+    },
+    {
+      "id": "5b2c",
+      "name": "Kaveri G",
+      "password": "Kaveri@123",
+      "E-mail": "kaverigunase@gmail.com"
+    },
+    {
+      "id": "4a18",
+      "name": "",
+      "password": "",
+      "E-mail": ""
+    },
+    {
+      "id": "793d",
+      "name": "hariharan",
+      "password": 1234,
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "5122",
+      "name": "kaveri G",
+      "password": "Kaveri@123",
+      "E-mail": "kaverigunase@gmail.com"
+    },
+    {
+      "id": "2366",
+      "name": "kaveri",
+      "password": "1234",
+      "E-mail": "kavnar@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "HP LapTop",
+      "price": "₹1,00,000",
+      "category": "laptop",
+      "color": "black",
+      "description": "Lenovo laptop",
+      "image": "https://www.asus.com/media/Odin/Websites/global/Series/10/P_setting_xxx_0_90_end_185.png?webp",
+      "id": "0953"
+    },
+    {
+      "name": "Analog watch ",
+      "price": "₹450",
+      "category": "Women watches",
+      "color": "Light Pink",
+      "description": "A watch is a portable timepiece that can be worn on the wrist or carried in a pocket. Watches are designed to keep time consistently, even when the wearer is moving around. They can be powered by either electricity or a spring. \n",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7sZq5Bksk-hM_1mQRGM-DYu4J2YyrWziJbDv9ECYR6LdquY-BBFnRiw7pPAYlcwtJVa7harUruv9a9Tew_Av_SmVUGvQCphs0zr_BfqZZ1GGdU3fU3W9R",
+      "id": "ef48"
+    },
+    {
+      "name": "Watch",
+      "price": "₹500",
+      "category": "Watch For Girls",
+      "color": "Orange",
+      "description": "A watch is a portable timepiece that can be worn on the wrist or carried in a pocket. Watches are designed to keep time consistently, even when the wearer is moving around. They can be powered by either electricity or a spring. \n",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsyNmJXaXoldo-iNIb5_gnQuCd7VyPF6beNO2sFBbcTT6A5WaON2W24xwqXskBUg7s4x63jdM3prDU0ogRzFy0SyLOf0c4nZxnucsdjzynA67b72Rxlp7SmA",
+      "id": "4413"
+    },
+    {
+      "name": "Hair Dryer",
+      "price": "₹699",
+      "category": "Effortless Hair Styling",
+      "color": "Purple",
+      "description": "Foldable 1000W Hair Dryer : Easy & Compact\nNozzle concentrator attachment with body for easy styling",
+      "image": "https://m.media-amazon.com/images/I/61la31UlZoL._SX679_.jpg",
+      "id": "5435"
+    },
+    {
+      "name": "Smart speaker",
+      "price": "₹5,499",
+      "category": "Brand: Amazon",
+      "color": "Blue",
+      "description": "Amazon Echo Dot 4th Gen with clock | Smart speaker with powerful bass, LED display and Alexa (Blue)",
+      "image": "https://m.media-amazon.com/images/I/71vabukaITL._SX569_.jpg",
+      "id": "b1ac"
+    },
+    {
+      "id": "b247",
+      "name": "Realme Buds",
+      "price": "₹1,499",
+      "category": "Buds T110",
+      "color": "Jazz Blue",
+      "description": "realme Buds T110 with Ai Enc for Calls, Upto 38 Hours of Playback and Fast Charging Bluetooth in Ear Headset (Jazz Blue, True Wireless)",
+      "image": "https://m.media-amazon.com/images/I/61RuJVn92GL._SX679_.jpg"
+    },
+    {
+      "id": "e124",
+      "name": "Dumbbell Pair",
+      "price": " ₹899",
+      "category": "amazon basics Neoprene Dumbbell Pair, 2 x 2Kg, Blue",
+      "color": "Blue",
+      "description": "Set of 2 dumbbells for resistance training; each dumbbell weighs 2 Kg Easy-grip neoprene coating for a secure hold Printed weight number on each end cap and colour-coded for quick identification Hexagonal shape prevents dumbbells from rolling away Ideal for fitness classes or at-home workout routines 1 year limited warranty",
+      "image": "https://m.media-amazon.com/images/I/81NlaW85aBL._SX679_.jpg"
+    },
+    {
+      "id": "c7de",
+      "name": "Bag",
+      "price": "₹299",
+      "category": "AmazonBasics - Mini Backpack for Outdoor Use (12 l) (Red)",
+      "color": "Red",
+      "description": "Small, trendy, multipurpose backpack to use for short hikes, trips or daily use\nMade from denier polyester, which is highly durable and long-lasting\nContains 1 front and 1 main compartment to store notebooks, tablets and other essentials\nComes with adjustable open angles, advanced storage design and a quick-access front pocket to carry small items\nSuitable for both men and women\nCapacity: 12 l\nColour: Red",
+      "image": "https://m.media-amazon.com/images/I/61OsxuItveL._SX679_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "834c",
+      "name": "dscsdfsdc",
+      "email": "sdcsdcs",
+      "password": "scsdcsd"
+    },
+    {
+      "id": "c6ec",
+      "name": "Kaveri",
+      "email": "kaverig190@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "8af2",
+      "name": "kaveri",
+      "email": "kaveri@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e471",
+      "name": "ssdd",
+      "email": "dfgg",
+      "password": "wer"
+    },
+    {
+      "id": "4d49",
+      "name": "kaveri G",
+      "email": "kaverigunase@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "ed8d",
+      "name": "Kaveri G",
+      "email": "kaverig190@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "a52d",
+      "name": "ksls",
+      "email": "ksls@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "fac1",
+      "name": "kaveri",
+      "email": "abc@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "d938",
+      "totalPrice": 600,
+      "userId": "4d49"
+    }
+  ]
+}
